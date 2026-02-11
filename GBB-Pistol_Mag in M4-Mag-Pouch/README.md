@@ -13,6 +13,8 @@ Glock-Optimierung: Zusätzliche obere Aussparungen gewährleisten die perfekte P
 
 Universelles Maß: Leicht erhöhte Maße, um optional Dämpfungsmaterial (z. B. Samtfolie) einkleben zu können.
 
+Geräuschdämpfung: Das Modell wurde erfolgreich mit einer dünnen Samtfolie ausgekleidet, um Klappern während der Bewegung effektiv zu unterbinden.
+
 ⚠️ Kompatibilitäts-Check (Erfolgreich getestet!)
 Dieses Insert wurde exakt für die Maße folgender GBB-Doublestack-Magazine entwickelt:
 
@@ -24,9 +26,7 @@ Dieses Insert wurde exakt für die Maße folgender GBB-Doublestack-Magazine entw
 
 [x] FNX-45
 
-Das ganz wurde dann jeweils mit einer sünnen Samtfolie ausgekleidet um das klappern zu dämpfen.
-
-Hinweis für MP5-Nutzer (aufgrund von Nachfragen): Nein, MP5-Magazine sind konstruktionsbedingt zu lang und schwer für dieses Insert. Hierfür bitte ein dediziertes SMG-Insert verwenden.
+Hinweis für MP5-Nutzer: Nein, MP5-Magazine sind konstruktionsbedingt zu lang und schwer für dieses Insert. Hierfür bitte ein dediziertes SMG-Insert verwenden.
 
 🖨 Druck-Einstellungen (Getestet auf Creality Ender 5)
 Ausrichtung: Liegend drucken (Print laying down).
