@@ -15,10 +15,15 @@ Universelles Maß: Leicht erhöhte Maße, um optional Dämpfungsmaterial (z. B. 
 
 ⚠️ Kompatibilitäts-Check (Erfolgreich getestet!)
 Dieses Insert wurde exakt für die Maße folgender GBB-Doublestack-Magazine entwickelt:
+
 [x] High-Capa (Alle Standard-Modelle)
+
 [x] Glock 19X (VFC/Umarex)
+
 [x] MK-23
+
 [x] FNX-45
+
 Hinweis für MP5-Nutzer (aufgrund von Nachfragen): Nein, MP5-Magazine sind konstruktionsbedingt zu lang und schwer für dieses Insert. Hierfür bitte ein dediziertes SMG-Insert verwenden.
 
 🖨 Druck-Einstellungen (Getestet auf Creality Ender 5)
