@@ -1,34 +1,30 @@
-Um etwas Ordnung in meiner Tasche zu haben, habe ich mir diesen kleine Halter für meinen Redline Mini SFR gebaut.
-Bei mir passt er perfekt rein. Unten noch einen Streifen Klettband angeklebt und durch die beiden Schlitze einen Klettstreifen eingesetzt um den Regulator zu sichern und fertig. Allgemein brauche ich die Klettstreifen nicht, da der Regulator schon passend sitzt.
-Die andere Öffnung dient dazu einen US-Plug einzustecken, bspw um den Tank auch mal entleeren zu können.
+Redline Mini SFR & US-Plug Halter
+Kompakte Fixierung für Regulator und Entleerstutzen.
 
-English - Google Translator - Sorry ^^
+🎯 Zweck der Konstruktion
+Dieser Halter wurde entwickelt, um den Redline Mini SFR Regulator sowie einen zusätzlichen US-Plug sicher und platzsparend an einem festen Ort in der Ausrüstungstasche zu organisieren.
 
-To have some order in my bag, I built this little holder for my Redline Mini SFR.
-For me, it fits perfectly. At the bottom, a strip of Velcro tape is glued and pull in a Velcro strip through the two slots to secure the regulator and finish. In general, I don't need the Velcro strips, as the regulator is already sitting appropriately. The other opening is used to insert a US-Plug, e.g. in order to be able to empty the tank.
+🛠 Die Lösung (Features)
+Duo-Halterung: Passgenaue Aufnahmen für den Regulator und einen US-Plug zum Entleeren des Tanks.
 
-Print Settings
-Printer brand:
-Creality
+Sicherungs-Option: Integrierte Schlitze ermöglichen die Nutzung eines Klettstreifens zur Fixierung des Regulators.
 
-Printer:
-Ender 5
+Plug-&-Play: Der Regulator sitzt bereits ohne Klettband so passgenau, dass er im normalen Gebrauch sicher hält.
 
-Rafts:
-No
-Supports:
-No
-Resolution:
-200
+Klett-Montage: Die flache Unterseite ist ideal zum Aufkleben von Klettband, um den Halter auf Flauschflächen in Taschen zu fixieren.
 
-Infill:
-20
+🖨 Druck-Einstellungen (Getestet auf Creality Ender 5)
+Auflösung: 200 (0.2mm).
 
-Filament brand:
-Doesn't Matter
+Infill: 20%.
 
-Filament color:
-Doesn't Matter
+Support/Raft: Nicht erforderlich.
 
-Filament material:
-PLA
+Material: PLA.
+
+⚖️ Lizenz & Urheber
+Dieses Design wurde von Dirk von Buchwald entwickelt.
+
+Nutzung: Remix/Änderungen sind erlaubt und erwünscht.
+
+Bedingung: Bei Weitergabe oder Veröffentlichung von Modifikationen muss der Name Dirk von Buchwald als ursprünglicher Konstrukteur genannt werden (CC BY 4.0).
